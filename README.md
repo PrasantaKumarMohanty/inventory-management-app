@@ -14,10 +14,10 @@ Process -
 3. Clone this repository
 
 For Frontend - 
-9. Go to the root project folder
-10. cd inventory-management-app
-11. npm install
-12. mpm start
+4. Go to the root project folder
+5. cd inventory-management-app
+6. npm install
+7. mpm start
 
 Then the frontend server will start and open in the browser automatically.
 
