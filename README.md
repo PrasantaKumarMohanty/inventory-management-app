@@ -22,11 +22,17 @@ For Frontend -
 Then the frontend server will start and open in the browser automatically.
 
 It will run in the port no. 3000 and starts from the Login page.
+Finally, the project setup is completed. Enjoy the Inventory Management App.
 
 root path: http://localhost:3000
+Credintials - 
+for store manager - 
+  username - Crish
+  password - crish1234
 
-
-Finally, the project setup is completed. Enjoy the Inventory Management App.
+for store manager - 
+  username - John
+  password - john1234
 
 Thank You...
 
